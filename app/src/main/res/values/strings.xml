@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Emma</string>
+    <string name="select_source">Select Source</string>
+    <string name="dialog_storage">Need Access to Storage for storing files</string>
+</resources>
